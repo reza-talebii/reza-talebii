@@ -1,8 +1,8 @@
 - 👋 Hi, I’m reza-talebii
-- 👀 I’m javascript fullstack
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 ********************
+- 🌱 I’m currently learning javascript
+- 💞️ ********************
+- 📫 ********************
 
 <!---
 reza-talebii/reza-talebii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
