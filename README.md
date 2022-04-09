@@ -10,7 +10,7 @@
 
 
 
- <a href="https://github.com/reza-talebii/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=reza-talebii&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> <a href="https://github.com/reza-talebii/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reza-talebii&layout=compact&theme=buefy&hide_border=true" /></a> 
+ <a href="https://github.com/reza-talebii/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=reza-talebii&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats" /></a> <a href="https://github.com/reza-talebii/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reza-talebii&layout=compact&theme=radical&hide_border=true" /></a> 
 
 
 
