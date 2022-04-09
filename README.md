@@ -25,3 +25,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reza-talebii&repo=crpyocurrency-app" />
 
 </a>
+
+
+<a href="https://github.com/reza-talebii/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=reza-talebii" />
+</a>
