@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Reza Talebi</h1>
 <h3 align="center">I'm frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adminwp&label=Profile%20views&color=0e75b6&style=flat" alt="adminwp" /> </p>
 
 - 🌱 I’m currently learning **JS,ReactJS,DataStructure**
 
@@ -9,6 +8,10 @@
 
 - 📫 How to reach me **reza.talebi0902@gmail.com**
 
+
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 #### Top Repositories
