@@ -14,7 +14,7 @@
 #### Top Repositories
 
 
-<a href="https://github.com/reaza-talebiii/crpyocurrency-ap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reaza-talebiii&repo=crpyocurrency-app&theme=buefy" />
+<a href="https://github.com/reaza-talebiii/crpyocurrency-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reza-talebii&repo=crpyocurrency-app" />
 
 </a>
