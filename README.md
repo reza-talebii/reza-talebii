@@ -16,5 +16,9 @@
 
 <a href="https://github.com/reza-talebii/crpyocurrency-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reza-talebii&repo=crpyocurrency-app" />
+</a>
+
+<a href="https://github.com/reza-talebii/crpyocurrency-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reza-talebii&repo=crpyocurrency-app" />
 
 </a>
