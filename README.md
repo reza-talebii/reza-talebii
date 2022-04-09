@@ -2,7 +2,7 @@
 <h3 align="center">I'm frontend developer</h3>
 
 
-- 🌱 I’m currently learning **JS,ReactJS,DataStructure**
+- 🌱 I’m currently learning **Next.js Getasby ReactNative**
 
 - 💬 Ask me about **JS,CSS,React**
 
