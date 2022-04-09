@@ -1,4 +1,4 @@
-<div align=center>
+
  
  <h1 align="center">Hi 👋, I'm Reza Talebi</h1>
 <h3 align="center">I'm frontend developer</h3>
@@ -28,5 +28,4 @@
 
 </a>
 
- 
- </div>
+
