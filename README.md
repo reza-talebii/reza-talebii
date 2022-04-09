@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Reza Talebi</h1>
+<div align=center>
+ 
+ <h1 align="center">Hi 👋, I'm Reza Talebi</h1>
 <h3 align="center">I'm frontend developer</h3>
 
 
@@ -26,7 +28,5 @@
 
 </a>
 
-
-<a href="https://github.com/reza-talebii/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=reza-talebii" />
-</a>
+ 
+ </div>
