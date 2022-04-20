@@ -27,8 +27,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reza-talebii&repo=web3.0" />
 </a>
 
-<a href="https://github.com/reza-talebii/crpyocurrency-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reza-talebii&repo=crpyocurrency-app" />
+<a href="https://github.com/reza-talebii/linkedin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reza-talebii&repo=linkedin" />
 
 </a>
 
