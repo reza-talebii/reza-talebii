@@ -5,7 +5,7 @@
 
 
  
-🌱 I’m currently learning **Next.js Getasby **
+🌱 I’m currently learning **Getasby react native**
 
  💬 Ask me about **JS,CSS,React**
 
