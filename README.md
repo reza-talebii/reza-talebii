@@ -5,7 +5,7 @@
 
 
  
-🌱 I’m currently learning **Getasby and Typescript**
+🌱 I’m currently learning **Getasby and React native**
 
  💬 Ask me about **JS,CSS,React**
 
