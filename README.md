@@ -7,8 +7,6 @@
  
 🌱 I’m currently learning **Getasby and React native**
 
- 💬 Ask me about **JS,CSS,React**
-
  📫 How to reach me **reza.talebi0902@gmail.com**
 
  
