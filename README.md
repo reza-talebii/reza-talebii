@@ -5,7 +5,7 @@
 
 
  
-🌱 I’m currently learning **Getasby and React native**
+🌱 I’m currently learning **nodejs and React native**
 
  📫 How to reach me **reza.talebi0902@gmail.com**
 
